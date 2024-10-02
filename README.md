@@ -1,5 +1,11 @@
 ## 👋 Hi! I'm Stirley Madrid
 
+<p align="center">
+  <span style="font-size: 100px; font-weight: bold;">APISI</span>
+  <br>
+  <img src="https://github.com/Stirley/Stirley/blob/main/LOGOHD.jpeg" alt="Logo" width="200px">
+</p>>
+
 I am a **Bioengineer** and **Electrical Engineer** focused on the research of **biosignals** and their applications in **biomechanics** and **real-world electrical engineering problems**. I am currently finishing a **Master's in Mechanical Engineering** at the National University of Colombia, where my studies focus on the application of **sensors** and **Machine Learning** for biosignal analysis in the fields of **sports** and **occupational ergonomics**.
 
 ### 🚀 Highlighted Projects
